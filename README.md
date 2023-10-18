@@ -1,11 +1,21 @@
-# Olá
-<i>S. Lucas 12: 16-32</i>
+```csharp
+using System;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmoreira-7&show_icons=true&theme=merko)
+public class Program
+{
+    public static void Main()
+    {
+        string[] langs = {"HTML", "CSS", "JS", "C#"};
+    }
+}
+}
+```
+<a href="https://github.com/gabrielmoreira-7">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-7&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117"></a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
+<a href="https://github.com/gabrielmoreira-7">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-7&layout=compact">
+  </a>
+
+
+
