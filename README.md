@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main()
     {
-        string[] langs = {"HTML", "CSS", "JS", "C#"};
+        string[] langs = {"JavaScript", "C#"};
     }
 }
 }
