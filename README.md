@@ -7,8 +7,8 @@ public class Program
 {
     public static void Main()
     {
-        string[] langs = {"JavaScript", "C#"};
-        string[] tech = {".NET Framework", "Windows Forms", "Unity"};
+        string[] langs = {"C#"};
+        string[] tech = {"Windows Forms", "Unity"};
     }
 }
 }
