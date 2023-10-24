@@ -7,8 +7,9 @@ public class Program
 {
     public static void Main()
     {
-        string[] langs = {"C#"};
-        string[] tech = {"Windows Forms", "Unity"};
+        string[] languages_frameworks = {"C#", "Windows Forms", "SQL"};
+        string[] databases = {"MySQL"};
+        string[] tech = {"Unity", "Sublime"};
     }
 }
 }
