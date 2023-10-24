@@ -12,7 +12,6 @@ public class Program
         string[] tech = {"Unity", "Sublime"};
     }
 }
-}
 ```
 <a href="https://github.com/gabrielmoreira-7">
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-7&show_icons=true&theme=apprentice&hide_border=true&bg_color=0D1117">
