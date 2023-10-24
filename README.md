@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
     {
-        string[] languages_frameworks = {"C#", "Windows Forms", "SQL"};
+        string[] languages_frameworks = {"C#", "SQL", "Windows Forms"};
         string[] databases = {"MySQL"};
         string[] tech = {"Unity", "Sublime"};
     }
