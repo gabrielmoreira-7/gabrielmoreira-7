@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## About me: 
-- I'm Gabriel Moreira 
-- I'm studying to be a software developer
+- **I'm Gabriel Moreira**
+- **I'm studying to be a software developer**
 
 ## ⚙️ Tools/Languages:
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
