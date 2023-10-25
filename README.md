@@ -1,29 +1,17 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7881D&random=false&width=435&lines=Drink+your+Milk" alt="Typing SVG" /></a>
+# Hi there 👋
 
-```csharp
-using System;
+## About me: 
+- I'm Gabriel Moreira 
+- I'm studying to be a software developer
 
-public class Program
-{
-    public static void Main()
-    {
-        string[] languages_frameworks = {"C#", "SQL", "Windows Forms"};
-        string[] databases = {"MySQL"};
-        string[] tech = {"Unity", "Sublime"};
-    }
-}
-```
-<a href="https://github.com/gabrielmoreira-7">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-7&show_icons=true&theme=apprentice&hide_border=true&bg_color=0D1117">
-</a>
+## ⚙️ Tools/Languages:
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-
-<a href="https://github.com/gabrielmoreira-7">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-7&layout=compact&theme=apprentice&hide_border=true&bg_color=0D1117">
-</a>
-
-
-
-
-
+## GitHub Status: 
+<div>
+  <img  height="50%"  width="auto"  src ="https://github-readme-stats.vercel.app/api?username=gabrielmoreira7&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=#fff"> 
+  <img  height="50%"  width="auto"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-7&layout=compact&hide_border=true&theme=react&bg_color=#fff&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</div>
