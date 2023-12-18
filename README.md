@@ -2,18 +2,10 @@
 
 ## About me: 
 - **I'm Gabriel Moreira**
-- **I'm studying to be a software developer**
-
+- 
 ## ⚙️ Tools/Languages:
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-ffffff?style=for-the-badge&color=black)
-![Csharp](https://img.shields.io/badge/C%23-444444?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
-
 
 ## GitHub Status: 
 <div>
