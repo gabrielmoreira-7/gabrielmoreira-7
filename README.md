@@ -2,7 +2,7 @@
 
 ## About me: 
 - **I'm Gabriel Moreira**
-- 
+
 ## ⚙️ Tools/Languages:
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
