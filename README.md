@@ -4,9 +4,9 @@
 - **I'm Gabriel Moreira**
 
 ## ⚙️ Tools/Languages:
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## GitHub Status: 
 <div>
   <img  height="50%"  width="auto"  src ="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-7&show_icons=true&count_private=true&theme=react&hide_border=true&hide=issues,contribs&bg_color=#fff"> 
