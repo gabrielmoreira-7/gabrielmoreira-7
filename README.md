@@ -4,8 +4,9 @@
 - **I'm Gabriel Moreira**
 
 ## ⚙️ Tools/Languages:
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-%87CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-%78B03A.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23D57A2E.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Status: 
